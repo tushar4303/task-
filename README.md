@@ -1,7 +1,7 @@
 # Github Workshop - Task 1
 
 ## Part A:
-Pushing your DSA/Java assignments on a new Github Repository 
+Pushing your DSA/Java assignments on a new Github Repository , Git clone and Git push
 
 Make a new github repository by the name DSA_assignments or Java_assignments and make sure it's set to Public
 
@@ -21,6 +21,7 @@ git clone https://github.com/your_username/Dsa_assignments.git
 - Commit the changes and push it to Github 
 
 ## Part B:
+Collaborating with your friends, Git pull
 - Add one of your friend as a collaborator in your Github repository, this will allow your friend to push and make changes to the files in your repository without using pull requests.
 - Collaborator is something similar to how we share the google doc sheets by giving editor access to our friends who can later make changes to those files.
 
