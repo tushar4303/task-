@@ -43,3 +43,5 @@ If you face any problems with any of the tasks or steps, please contact the inst
 Remember that if it's difficult for you, it's probably difficult for others as well. These tools are obviously unfamiliar to you, so you may encounter difficulties; however, with a little guidance and support from us and your hard work, you should be able to complete all of the tasks successfully.
 
 [Link for task2](https://github.com/simarkaur28/task2)
+
+P.S Task 2 is actually easier than task 1
